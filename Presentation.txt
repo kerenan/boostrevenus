@@ -1,0 +1,22 @@
+# Boostrevenus
+
+Boostrevenus est un site qui explique comment gagner un peu d'argent en ligne grâce à différentes méthodes :
+
+- applications rémunérées
+- sondages rémunérés
+- cryptomonnaies
+- plateformes de revenus passifs
+
+Guide principal :
+https://www.boostrevenus.fr
+
+Exemples de guides :
+
+Honeygain :
+https://www.boostrevenus.fr/honeygain/
+
+Bemyeye :
+https://www.boostrevenus.fr/bemyeye/
+
+Coinpayu :
+https://www.boostrevenus.fr/coinpayu/
